@@ -1,3 +1,3 @@
 # gophers_v2
-start app from app folder
+start application from app folder
 go run . {port}
